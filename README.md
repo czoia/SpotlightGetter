@@ -19,7 +19,6 @@ For running this script you need to install Python 2.7 or above, PyQt4 and PIL.
 
 ```
 pip install pil
-
 ```
 
 ## Run code
